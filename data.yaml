@@ -1,0 +1,10 @@
+names:
+- car
+- threewheel
+- bus
+- truck
+- motorbike
+- van
+nc: 6
+train: /content/vehicle_dataset/vehicle dataset/train
+val: /content/vehicle_dataset/vehicle dataset/valid
